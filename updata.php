@@ -14,5 +14,6 @@ require_once('view/top.php');
         <input type="submit">
       </p>
     </form>
-  </body>
-</html>
+<?php
+require_once('view/bottom.php');
+?>
